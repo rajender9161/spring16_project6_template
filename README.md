@@ -1,4 +1,4 @@
-# spring16_project6_template
+# project template
 
 # overview
 
